@@ -3,7 +3,7 @@
 
 
 ## Languages ​​and Tools
-![Csharp](https://img.shields.io/badge/-C%20Sharp-000000?style=for-the-badge&logo=c-sharp&logoColor=239120)
+[![Csharp](https://img.shields.io/badge/-C%20Sharp-000000?style=for-the-badge&logo=c-sharp&logoColor=239120)]()
 ![NetCore](https://img.shields.io/badge/-.netCore-000000?style=for-the-badge&logo=.net&logoColor=0080FF)
 
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0095ff)
