@@ -21,4 +21,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F  )](https://www.instagram.com/the.andruxa/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=7289DA&label=PopovDev%234723  )](https://discord.com/channels/@me/608299608057184296)
 
-[![Dtats](https://github-readme-stats.vercel.app/api?username=PopovDev)]()
+[![Dtats](https://github-readme-stats.vercel.app/api?username=PopovDev&theme=nightowl)]()
+## Popular repository
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PopovDev&repo=GachiCord&theme=nightowl)](https://github.com/PopovDev/GachiCord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PopovDev&repo=Minecraft-Rcon-Client&theme=nightowl)](https://github.com/PopovDev/Minecraft-Rcon-Client)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PopovDev&repo=Lightshot-Parser-prnt.sc&theme=nightowl)](https://github.com/PopovDev/Lightshot-Parser-prnt.sc)
