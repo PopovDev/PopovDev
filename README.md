@@ -15,3 +15,8 @@
 ![Js](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Ts](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=007ACC)
 ![Vue](https://img.shields.io/badge/-Vue.Js-000000?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
+
+## Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=4FC08D)](https://t.me/TheAndruxa)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F  )](https://www.instagram.com/the.andruxa/)
+[![Instagram](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=7289DA  )](https://discord.com/channels/@me/608299608057184296)
