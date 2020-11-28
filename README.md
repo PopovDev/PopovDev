@@ -19,8 +19,7 @@
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=4FC08D)](https://t.me/TheAndruxa)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F  )](https://www.instagram.com/the.andruxa/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=7289DA&label=PopovDev%234723  )](https://discord.com/channels/@me/608299608057184296)
-
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=7289DA&label=PopovDev%239715  )]()
 [![Dtats](https://github-readme-stats.vercel.app/api?username=PopovDev&theme=nightowl)]()
 ## Popular repository
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PopovDev&repo=GachiCord&theme=nightowl)](https://github.com/PopovDev/GachiCord)
